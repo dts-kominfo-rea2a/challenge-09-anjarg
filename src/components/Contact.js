@@ -10,7 +10,7 @@ const Contact = (props) => {
         <div className='container'>
             <h1>{props.data.name}</h1>
             <h4>{props.data.phone}</h4>
-            <h4>{props.data.email}</h4}
+            <h4>{props.data.email}</h4>
         </div>
         </div>
     )
